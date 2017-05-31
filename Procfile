@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT chatbot_2.wsgi:application
