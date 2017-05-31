@@ -25,7 +25,7 @@ SECRET_KEY = '5+$+hbrxpn4zjkt@%v)x*v8&34a=th-px_(%vv@+(at#tb^5hl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://sleepy-meadow-68895.herokuapp.com/']
+ALLOWED_HOSTS = ['https://murmuring-basin-84072.herokuapp.com/']
 
 
 # Application definition

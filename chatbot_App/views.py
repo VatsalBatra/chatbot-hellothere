@@ -110,7 +110,7 @@ def get_emoji(str_var):
     
 
 
-PAGE_ACCESS_TOKEN ='EAAbGizloeY8BAIiTvpxjqwdUe70oVUAsL0AuK3hSdLSE5NxNdGZC6ERacl8TAQMEQEX5DYrANZBkH2U2j9wZAv1HowIcqvlXfrgWGEALB7zMSBsrpZAi08ZBj8wZAMDLaJ4MEl3Ulfn6M8BH0QIUyG7KZAgDSOUtx70r802N9dZBRgZDZD'
+PAGE_ACCESS_TOKEN ='EAAFIvc6Fw88BAH2doAZCyPSOQWcO0TUzfGx7lj62VxHpVfK8lOG6AC1pmBLYkAHLC3CBxIienT1zLeuHCTirxwSlK4ZAXR40C6UaEoSM4PP5sP7fyEyeZAI1EeZBZCrv8npgh6qs03SbtrFg430HIKdAiORb8v0Rw0c4VYtgWZBQZDZD'
 def post_facebook_message2(fbid, recevied_message):
     post_message_url = 'https://graph.facebook.com/v2.6/me/messages?access_token=%s'%PAGE_ACCESS_TOKEN
     message_object = {
